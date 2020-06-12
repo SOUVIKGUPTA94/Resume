@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -31,7 +32,7 @@
     <hr>
     
     <h3>Experience</h3>
-     <table cellspacing="10">
+     <table border="1" cellspacing="10">
       <thead>
        <tr>
         <th>Year</th>
@@ -85,3 +86,5 @@
     
     <a href="Leisure.html">Leisure</a>
     <a href="Contact.html">Contact</a>
+    </body>
+</html>
